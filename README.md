@@ -13,7 +13,7 @@
 ## Hackathons
 
 - Grand Prize ($3000) @ Corenll Digital Agriculture Hackathon [Read About My Win!](https://news.cornell.edu/stories/2024/02/freshmen-win-top-prize-digital-ag-hackathon)
-- Interactivity Award ($125) & Wolfram Award ($375) @ Vizathon 2021 [Hackathon Page](https://devpost.com/software/stop-aapi-hate-dashboard)
+- Interactivity Award ($125) & Wolfram Award ($375) @ Vizathon 2021 [See the Vizathon 2021 Page!](https://devpost.com/software/stop-aapi-hate-dashboard)
 
 <!--
 **NicholasChanng/NicholasChanng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
