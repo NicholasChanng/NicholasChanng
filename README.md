@@ -1,6 +1,6 @@
 ## About Me
 - 👋 Hi, I'm Nick!
-- 🎓 CS + AI Minor @ Cornell University '26
+- 🎓 CS @ Cornell University '26 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/nicholaschanng/) and [Portfolio Website](https://nicholaschanng.netlify.app/)!
 
 ## Skills
