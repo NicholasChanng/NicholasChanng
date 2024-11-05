@@ -6,9 +6,9 @@
 ## Skills
 | **Skills** | |
 |:-----| :-----|
-| *Languages* | Python, Java, JavaScript, TypeScript, CSS, Sass, HTML, OCaml, SQL | 
+| *Languages* | Python, Java, JavaScript, TypeScript, CSS, Sass, HTML, OCaml, MySQL | 
 | *Frameworks/Libraries:* | React, Node.js, Next.js, Electron, TailwindCSS, MaterialUI, Chakra-UI, Axios, Plasmo |
-| *Tools:* | AWS, REST API, Git, PostgreSQL, OpenRouter.ai, Jira, Confluence, MacOS, Windows |
+| *Tools:* | AWS, REST API, Git, PostgreSQL, Jira, Confluence, MacOS, Windows |
 
 ## Hackathons
 
