@@ -1,5 +1,6 @@
+<h3 style="text-align:center;"> 👋 Hi, I'm Nick! </h3>
+
 ## About Me
-- 👋 Hi, I'm Nick!
 - 🎓 CS @ Cornell University '26 
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/nicholaschanng/) and [Portfolio Website](https://nicholaschanng.netlify.app/)!
 
