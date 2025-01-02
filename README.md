@@ -1,4 +1,4 @@
-<h3 style="text-align:center;"> 👋 Hi, I'm Nick! </h3>
+<h1 style="text-align:center"> 👋 Hi, I'm Nick! </h1>
 
 ## About Me
 - 🎓 CS @ Cornell University '26 
