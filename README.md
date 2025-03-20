@@ -7,8 +7,8 @@
 ## Skills
 | **Skills** | |
 |:-----| :-----|
-| *Languages* | Python, Java, JavaScript, TypeScript, SQL, HTML, CSS, Sass, OCaml | 
-| *Technologies/Frameworks:* | React, Nextjs, Node.js, Express.js Flask, MySQL, PostgreSQL, REST/RESTful API |
+| *Languages* | Python, Java, JavaScript, TypeScript, HTML, CSS, Sass, SQL, OCaml | 
+| *Technologies/Frameworks:* | React, Next.js, Vite, Node.js, Express.js, Flask, PostgreSQL, MongoDB |
 | *Libraries* | Scikit-learn, Pandas, NumPy, Matplotlib, TailwindCSS, Material UI, Chakra-UI |
 | *Developer Tools:* | AWS, Git, Jira, Confluence, Axios, MacOS, Windows, Linux |
 
