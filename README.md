@@ -2,7 +2,7 @@
 
 ## About Me
 - 🎓 CS @ Cornell University '26 
-- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/nicholaschanng/) and [Portfolio Website]([nickchanng.com](https://nickchanng.com/))!
+- 📝 Check out my [LinkedIn](https://www.linkedin.com/in/nicholaschanng/) and [Portfolio Website](https://nickchanng.com/)!
 
 ## Skills
 | **Skills** | |
