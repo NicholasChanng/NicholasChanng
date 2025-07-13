@@ -7,10 +7,10 @@
 ## Skills
 | **Skills** | |
 |:-----| :-----|
-| *Languages* | Python, Java, TypeScript, JavaScript, C++, SQL, HTML, CSS | 
-| *Frameworks/Databases* | Flask, FastAPI, Node.js, Express.js, PostgreSQL, React, React Native, Next.js |
-| *Libraries* | Scikit-learn, Pandas, NumPy, Matplotlib, TailwindCSS, Material UI, Chakra-UI |
-| *Tools/Technologies* | Git, Postman, AWS, CI/CD, OpenAI API, Firebase, XCode, Jira, Confluence |
+| *Languages* | Python, Java, TypeScript, JavaScript, C++, SQL | 
+| *Frameworks* | Flask, FastAPI, Node.js, Express.js, React, React Native, Next.js |
+| *Libraries* | Scikit-learn, NumPy, Pandas, OpenAI API, TailwindCSS, Material UI |
+| *Tools/Technologies* | Git, AWS, PostgreSQL, Postman, CI/CD, Docker, LaunchDarkly, Jira, Confluence |
 
 ## Hackathons
 
