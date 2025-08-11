@@ -1,16 +1,16 @@
 <h1 style="text-align:center"> 👋 Hi, I'm Nick! </h1>
 
 ## About Me
-- 🎓 CS @ Cornell University '26 
+- 🎓 CS @ Cornell University '27
 - 📝 Check out my [LinkedIn](https://www.linkedin.com/in/nickchanng/) and [Portfolio Website](https://nickchanng.com/)!
 
 ## Skills
 | **Skills** | |
 |:-----| :-----|
 | *Languages* | Python, Java, TypeScript, JavaScript, C++, SQL | 
-| *Frameworks* | Flask, FastAPI, Node.js, Express.js, React, React Native, Next.js |
+| *Frameworks* | FastAPI, Flask, Node.js, Express.js, React, React Native, Next.js |
 | *Libraries* | Scikit-learn, NumPy, Pandas, OpenAI API, TailwindCSS, Material UI |
-| *Tools/Technologies* | Git, AWS, PostgreSQL, Postman, CI/CD, Docker, LaunchDarkly, Jira, Confluence |
+| *Tools/Technologies* | Git, AWS, Redis, PostgreSQL, CI/CD, Docker, Postman, Jira, Confluence |
 
 ## Hackathons
 
