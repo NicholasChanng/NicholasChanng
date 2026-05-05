@@ -15,7 +15,7 @@
 ## Hackathons
 
 - Best Game Award @ HackPrinceton Spring '26 [Visit Our HackPrinceton Spring '26 Project Page!](https://devpost.com/software/larp-wmveqg)
-- Grand Prize ($3000) @ Cornell Digital Agriculture Hackathon [Read About Our Win!](https://news.cornell.edu/stories/2024/02/freshmen-win-top-prize-digital-ag-hackathon)
+- 1st Prize ($3000) @ Cornell Digital Agriculture Hackathon [Read About Our Win!](https://news.cornell.edu/stories/2024/02/freshmen-win-top-prize-digital-ag-hackathon)
 - Interactivity Award & Wolfram Award @ Vizathon 2021 [Visit Our Vizathon 2021 Project Page!](https://devpost.com/software/stop-aapi-hate-dashboard)
 
 <!--
